@@ -1,0 +1,4 @@
+WIFI_SSID = "..."
+WIFI_PASSWORD = "..."
+ANTHROPIC_KEY = "..."
+OPENAI_KEY = "..."
